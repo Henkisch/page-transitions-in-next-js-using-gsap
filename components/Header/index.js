@@ -1,5 +1,4 @@
-import React  from 'react';
-import Link from 'next/link';
+import Link from "next/link";
 
 const Header = () => {
   return (
@@ -24,7 +23,7 @@ const Header = () => {
         </nav>
       </div>
     </header>
-  );
+  )
 }
 
 export default Header;

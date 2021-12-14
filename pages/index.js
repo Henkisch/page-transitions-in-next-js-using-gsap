@@ -3,7 +3,6 @@ import React  from 'react';
 export default function Home() {
   return (
     <div className="flex flex-col container items-center justify-center mx-auto">
-
       <svg 
         className="w-80 h-auto"
         viewBox="0 0 148 90" 
